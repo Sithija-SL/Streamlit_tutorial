@@ -1,0 +1,7 @@
+streamlit>=1.0.0
+LabelEncoder
+LinearRegression
+pandas
+numpy
+matplotlib
+seaborn
